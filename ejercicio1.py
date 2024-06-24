@@ -1,0 +1,6 @@
+nombre=input("Ingresa tu nombre: ")
+apellido=input("Ingresa tu apellido: ")
+edad=input("Ingreasa tu edad: ")
+print(nombre +" "+ apellido +" "+ "tiene" +" "+ edad + " años")
+print(nombre, apellido, "tiene", edad, "años")
+print(f"{nombre} {apellido} tiene {edad} años")
