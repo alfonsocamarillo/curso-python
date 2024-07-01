@@ -1,6 +1,8 @@
-contraseña = input("Ingrese una contraseña: ")
-contraseña2 = input("Ingrese la contraseña nuevamente :")
-if (contraseña == contraseña2):
-    print("Acceso correcto")
+edad = int(input("Ingrese su edad: "))
+if(edad >= 18):
+    print("Eres mayor de edad")
 else:
-    print("Las contraseñas son diferentes")
+    if(edad <= 0):
+        print("Tu edad no puede existir")
+    else:
+        print("Eres menor de edad")
