@@ -5,4 +5,4 @@ print (almacen)
 eliminar = input("Ingrese una fruta a eliminar: ")
 almacen.remove(eliminar)
 almacen.sort()
-print (almacen)s
+print (*almacen)
