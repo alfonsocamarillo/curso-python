@@ -1,0 +1,7 @@
+legajo=002
+nombre=Juan
+apellido=rf
+dni=45
+puesto=chef
+foto=img.png
+creado=2024-08-05 10:56:31.604254

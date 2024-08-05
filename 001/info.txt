@@ -1,0 +1,7 @@
+legajo=001
+nombre=Juan
+apellido=Lopez
+dni=85458589
+puesto=Contador
+foto=img.jpg
+creado=2024-08-05 10:56:31.604254
